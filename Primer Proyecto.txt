@@ -9,8 +9,8 @@
 
 
 
-   
-<h2><i><Discos ordenados segun la fecha de salida</h2></i> 
+ <h2 id="inicio">Discos ordenados segun la fecha de salida</h2>
+
 
 <h2><u><font color="blue"> Slipknot </font></h2></u> 
    <a href="https://www.slipknot1.com/">Página Oficial</a>
@@ -84,18 +84,4 @@
          su voz y compone la pista "Passenger".
          El álbum fue todo un éxito de ventas, terminando el año 2000 en la tercera posición del Billboard de ese año.
          
-<h5><a href="Slipknot">Inicio</a></h5>
-<h5><a href="mailto:pepe@hotmail.es">Contactanos</a></h5> 
-      
-      
-
-
-
-
-
-      
-
-
- 
-</body>
-</html>
+<h5><a href="#inicio">Volver a Inicio</a> <a href="mailto:pepe@hotmail.es">Contactanos</a></h5>
